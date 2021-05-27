@@ -1,0 +1,4 @@
+AJAX no es un lenguje de programacion
+<br>
+AJAX es una tecnica para crear
+rapida y dinamicamente paginas
